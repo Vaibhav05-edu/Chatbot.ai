@@ -76,7 +76,7 @@ function PureChatHeader({
         asChild
       >
         <Link
-          href={`https://github.com/chilkotiKartik`}
+          href={`https://github.com`}
           target="_noblank"
         >
           <VercelIcon size={16} />
